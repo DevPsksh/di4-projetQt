@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icns/if_close_32391.icns</file>
+        <file>icns/if_contact-new_23203.icns</file>
+        <file>icns/if_group_full_add_103573.icns</file>
+        <file>icns/if_Help_1493288.icns</file>
+        <file>icns/Copyright-Symbol.jpg</file>
+        <file>icns/if_copyright_309922.icns</file>
+        <file>icns/poly.png</file>
+        <file>icns/000000028829.png</file>
+        <file>icns/Add_User-80_icon-icons.com_57380.png</file>
+    </qresource>
+</RCC>
